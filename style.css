@@ -755,7 +755,7 @@ footer .medsos {
         align-items: center;
         justify-content: center;
         width: 60%;
-        height: 100vh;
+        height: 100%;
         position: fixed;
         top: 0;
         right: -100%;
